@@ -18,6 +18,8 @@ An individual **Student Service** application built with Java and Spring Boot, u
 
    Link:https://legendary-umbrella-4j944v46j97rh55pv-8080.app.github.dev/students
   (Quick note: The port assumes a local run or an active development server.)
+
+  Postman Link:https://naqiya-bharmal22-3543631.postman.co/workspace/b035a2e6-9c05-4f5a-8ff0-c6f2f0afcc31/http-request/58004727-335bda36-bb5d-4712-bd1f-ba6d3ea37628
   
 ---
 
